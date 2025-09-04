@@ -1,9 +1,3 @@
-\# Create a basic README
-
-echo "# API Scanner Tool
-
-
-
 A unified tool to scan Postman collections, log files, and PDF documentation to generate OpenAPI specifications, Excel reports, and text outputs.
 
 
